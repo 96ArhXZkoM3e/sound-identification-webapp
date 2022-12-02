@@ -1,0 +1,44 @@
+body
+{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: darksalmon;
+} 
+
+.header_div
+{
+    background-color: white;
+    color: crimson;
+}
+
+.header_div p
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: hsl(0, 100%, 50%);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(27, 102, 0);
+}
+
+
